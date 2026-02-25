@@ -1,0 +1,13 @@
+# Karate specific
+karate-summary.json
+karate-reports/
+
+# Maven & Java
+target/
+*.class
+*.log
+*.ctxt
+
+# IntelliJ
+.idea/
+*.iml
